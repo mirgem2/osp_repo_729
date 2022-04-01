@@ -3,3 +3,4 @@ git text
 (remote) 2nd modified
 -----------------------
 branch1:1st modified
+branch2:2nd modified
