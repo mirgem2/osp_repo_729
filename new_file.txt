@@ -1,3 +1,5 @@
 git text
 (local) 1st modified
 (remote) 2nd modified
+-----------------------
+branch1:1st modified
